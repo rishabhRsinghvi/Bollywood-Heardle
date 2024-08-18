@@ -13,8 +13,8 @@ export default function App() {
             cover: "https://raw.githubusercontent.com/rishabhRsinghvi/Bollywood-Heardle/main/covers/cover1.jpg"
         },
         {
-            title: "Song 2",
-            artist: "Artist 2",
+            title: "Tere Bin",
+            artist: "AR Rahman",
             url: "https://raw.githubusercontent.com/rishabhRsinghvi/Bollywood-Heardle/main/songs/song2.mp3",
             cover: "https://raw.githubusercontent.com/rishabhRsinghvi/Bollywood-Heardle/main/covers/cover2.jpg"
         },

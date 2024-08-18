@@ -7,8 +7,8 @@ export default function App() {
 
     const songs = [
         {
-            title: "Song 1",
-            artist: "Artist 1",
+            title: "GALLAN GOODIYAAN",
+            artist: "YASHITA SHARMA, MANISH KUMAR TIPU, FARHAN AKHTAR, SHANKAR MAHADEVAN, SUKHWINDER SINGH",
             url: "https://raw.githubusercontent.com/rishabhRsinghvi/Bollywood-Heardle/main/songs/song1.mp3",
             cover: "https://raw.githubusercontent.com/rishabhRsinghvi/Bollywood-Heardle/main/covers/cover1.jpg"
         },

@@ -1,6 +1,6 @@
 import React from 'react';
-import Game from './Game'; // Assuming Game is another component
-import Result from './Result'; // Assuming Result is another component
+import Game from './components/Game';    // Correct path for Game
+import Result from './components/Result'; // Correct path for Result
 
 function App() {
   const [songs, setSongs] = React.useState([]);

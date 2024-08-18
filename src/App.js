@@ -12,8 +12,8 @@ function App() {
     // Replace this with your actual logic to fetch the songs
     const fetchedSongs = [
       // Example song objects
-      { title_short: "Song 1", artist: { name: "Artist 1" }, preview: "/path/to/song1.mp3" },
-      { title_short: "Song 2", artist: { name: "Artist 2" }, preview: "/path/to/song2.mp3" }
+      { title_short: "Gallan Goodiyan", artist: { name: "YASHITA SHARMA, MANISH KUMAR TIPU, FARHAN AKHTAR, SHANKAR MAHADEVAN, SUKHWINDER SINGH" }, preview: "/path/to/song1.mp3" },
+      { title_short: "Tere Bina", artist: { name: "AR Rahman" }, preview: "/path/to/song2.mp3" }
     ];
     setSongs(fetchedSongs);
 
